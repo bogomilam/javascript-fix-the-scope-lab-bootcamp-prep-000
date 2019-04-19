@@ -2,6 +2,10 @@ var animal = 'dog'
 
 
 function myAnimal() {
+<<<<<<< HEAD
+=======
+  
+>>>>>>> a1396196652fc731f9160af578135a8935b119c5
 return animal
   
 }
